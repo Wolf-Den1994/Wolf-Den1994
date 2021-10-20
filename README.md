@@ -1,7 +1,7 @@
 ### Hi there :wave: :boom: :fire:
 
 ### I am in:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](www.linkedin.com/in/denis-karazan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/denis-karazan)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/W_Den)
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/wolfden)
 ### Languages and Tools:
