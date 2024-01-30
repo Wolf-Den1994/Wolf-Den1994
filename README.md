@@ -28,6 +28,7 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=#12924f)](https://github.com/Wolf-Den1994)
 [![Redis](https://img.shields.io/badge/redis-090909.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://github.com/Wolf-Den1994)
 [![Prisma](https://img.shields.io/badge/Prisma-090909?style=for-the-badge&logo=Prisma&logoColor=white)](https://github.com/Wolf-Den1994)
+[![Docker](https://img.shields.io/badge/docker-090909.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Wolf-Den1994)
 [![Socket.io](https://img.shields.io/badge/-Socket.io-090909?style=for-the-badge&logo=Socket.io&logoColor=#010101)](https://github.com/Wolf-Den1994)
 [![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-090909?style=for-the-badge&logo=apollo-graphql)](https://github.com/Wolf-Den1994)
 [![JWT](https://img.shields.io/badge/JWT-090909?style=for-the-badge&logo=JSON%20web%20tokens)](https://github.com/Wolf-Den1994)
